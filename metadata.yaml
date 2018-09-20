@@ -1,0 +1,29 @@
+_repo: A-Society-Clown-Reminiscences_53225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grossmith, George
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '514'
+    url: http://www.gutenberg.org/2009/agents/514
+    wikipedia: http://en.wikipedia.org/wiki/George_Grossmith
+description: ''
+gutenberg_issued: '2016-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grossmith, George, 1847-1912'
+- !lcsh 'Actors -- Biography'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Explanatory -- Early recollections -- At Bow Street Police Court
+  -- From amateur to professional -- In the provinces -- Gilbert and Sullivan -- A
+  society clown -- A very snobbish chapter.
+title: 'A Society Clown: Reminiscences'
+url: http://www.gutenberg.org/ebooks/53225
